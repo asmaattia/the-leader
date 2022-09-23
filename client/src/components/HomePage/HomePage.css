@@ -1,0 +1,54 @@
+.main-home {
+    margin: 20px;
+    text-align: center;
+}
+
+#logo-image {
+    width: 20%;
+    margin-bottom: 50px;
+}
+
+.image-parallax {
+    background-image: url('../../assets/students-classroom.png');
+    padding-top: 100px;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 50px;
+    height: 500px;
+}
+
+.info-box {
+    margin-left: 100px;
+    border-radius: 5px;
+    opacity: 0.8;
+    width: 30%;
+    height: 70%;
+}
+
+.info-box h2 {
+    color: goldenrod;
+    font-style: italic;
+}
+
+.info-box h1 {
+    color: crimson;
+    font-style: italic;
+}
+
+.opt-btn button{
+    margin-right: 20px;
+}
+
+.opt-btn {
+    margin-bottom: 50px;
+}
+
+.opt-btn:hover {
+    cursor: pointer;
+}
+
+#table-list {
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 200px;
+}
